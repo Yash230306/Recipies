@@ -1,2 +1,2 @@
 # Recipies
-Hello this is my prject
+Hello this is my project
